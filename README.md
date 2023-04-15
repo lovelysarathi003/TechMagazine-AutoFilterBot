@@ -44,7 +44,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 ## Deploy
 You can deploy this bot anywhere.
-
+<a href="https://render.com/deploy?repo=https://github.com/itsyogieu/TechMagazine-AutoFilterBot">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 <i>**[Watch Deploying Tutorial...](https://youtu.be/gNCd8xuNgM8)**</i>
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/itsyogieu/TechMagazine-AutoFilterBot/deploy-buttons&branch=master&name=tmafbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
